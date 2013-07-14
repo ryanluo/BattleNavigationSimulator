@@ -1,0 +1,2 @@
+serviceClass: com.google.BattleNavigationSimulator.client.GreetingService
+path: F36072608911E88D19841ECE6801E933.gwt.rpc
